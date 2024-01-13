@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShirleyWangCVR
-- 👀 I’m interested in novel Image Segmentation models and algorithms
-- 🌱 I’m currently learning computational imaging and computational social science at UofT
+- 👀 I’m interested in novel Image Segmentation models and algorithms, and other interesting computer vision projects
+- 🌱 I have recently completed my Msc at UofT
 - 📫 Reach me through my LinkedIn
 
 <!---
