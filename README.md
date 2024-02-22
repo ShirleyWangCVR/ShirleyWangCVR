@@ -57,9 +57,25 @@ Data Engineer | Xero - Hubdoc (2020-2021)
 
 #### Driving During Quarantine (2020)  •  [Github](https://github.com/DataFestUofT/submit-project-shirley_eva/)  •  [Presentation](https://github.com/DataFestUofT/submit-project-shirley_eva/blob/master/DatafestSlideDeck.pdf)
 
-Won 1st Place Best in Show at the UofT@Datafest2020
+![Heatmap](torontoheatmap.png)
+
+Won 1st Place Best in Show at the UofT@Datafest2020.
 
 Performed time series analysis using a linear mixed model on traffic data in the Greater Toronto Area to show the effects of the Covid lockdown on Toronto life.
+
+
+#### Packing Disaster: Educational Video Game to Teach Algebra (2019)  •  [Github](https://github.com/ShirleyWangCVR/PackingDisasterV2)  •  [Development Blog](https://csc399shirty.home.blog/)
+
+![Game Demonstration](solving.png)
+
+Created a video game in C# and Unity, designed to teach basic algebra to children. This is done by representing variables with boxes, and numbers with toys. Done in collaboration with Professor Steve Engels.
+
+
+#### Rhythm Game in Verilog (2019)  •  [Github](https://github.com/ShirleyWangCVR/CSC258-Rhythm-Game/)
+
+Basic rhythm game programmed entirely in Verilog, played on four keys with some extra code to generate songs.
+
+DEMO (Unravel from Tokyo Ghoul)
 
 
 ## Blog Posts
