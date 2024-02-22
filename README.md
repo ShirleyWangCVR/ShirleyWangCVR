@@ -78,6 +78,13 @@ Basic rhythm game programmed entirely in Verilog, played on four keys with some 
 DEMO (Unravel from Tokyo Ghoul)
 
 
+https://github.com/ShirleyWangCVR/ShirleyWangCVR/assets/43547424/8f64892e-3273-4863-ac31-1cac4ed564ea
+
+
+
+
+
+
 ## Blog Posts
 
 - [Is AI is Coming for the Music Industry?](https://medium.com/demistify/is-ai-is-coming-for-the-music-industry-885c11efbac2)
