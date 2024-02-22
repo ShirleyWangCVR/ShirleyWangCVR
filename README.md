@@ -14,7 +14,7 @@ Thanks for popping by my github!
 
 ### Connect With Me!
 
-<a href="https://www.linkedin.com/in/shirley-yuemeng-wang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@shirleywangcvr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>   <a href="mailto:shirleywang@hotmail.ca" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/shirley-yuemeng-wang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>    <a href="https://medium.com/@shirleywangcvr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>   <a href="mailto:shirleywang@hotmail.ca" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
 
 ## My Masters Research
 
@@ -27,6 +27,13 @@ Supervisor: Sanja Fidler
 #### Conversational AI for Customer Service Chatbots  •  [Video Demo](https://youtu.be/B1clXX_V1bQ?si=TUZSaT30pYu5dBIJ)
 
 Applied Machine Learning Intern at Vector Institute (2021)
+•	Researched practical methods for creating domain-specific Conversational AI.
+•	Finetuned LLMs like GPT2 for multiple NLP tasks, adopting existing techniques to create models capable of extracting reasonable answers to queries from a given context in a natural dialogue manner, which perform well in both zero-shot and finetuned settings.
+•	Implemented a standardized data pipeline into finetuning the model for any domain-specific dataset.
+•	Created practical demos to communicate the abilities of our model to internal stakeholders and sponsor companies.
+
+
+
 
 #### Database Management
 
