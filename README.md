@@ -24,7 +24,7 @@ Supervisor: Sanja Fidler
 
 ## Work Experience
 
-#### Conversational AI for Customer Service Chatbots
+#### Conversational AI for Customer Service Chatbots  •  [Video Demo](https://youtu.be/B1clXX_V1bQ?si=TUZSaT30pYu5dBIJ)
 
 Applied Machine Learning Intern at Vector Institute (2021)
 
