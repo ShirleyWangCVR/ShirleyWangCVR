@@ -18,13 +18,13 @@ Thanks for popping by my github!
 
 ## My Masters Research
 
-#### Masters of Computer Science | University of Toronto (2022-2024)
+Masters of Computer Science | University of Toronto (2022-2024) | Supervisor: Sanja Fidler
 
-#### Supervisor: Sanja Fidler
+#### Toronto Annotation Suite  •  [Try It Here!](https://aidemos.cs.toronto.edu/toras/landing) 
 
+![Segmentation](cats.png)
 
-
-
+Updated the polygon segmentation model to use a modern transformer backbone and loss function to achieve 85% IoU on five commercial segmentation datasets.
 
 ## Work Experience
 
@@ -36,11 +36,7 @@ Applied Machine Learning Intern | Vector Institute (2021)
 
 - Researched practical methods for creating domain-specific Conversational AI.
 - Finetuned LLMs like GPT2 for multiple NLP tasks, adopting existing techniques to create models capable of extracting reasonable answers to queries from a given context in a natural dialogue manner, which perform well in both zero-shot and finetuned settings.
-- Implemented a standardized data pipeline into finetuning the model for any domain-specific dataset.
-
-
-
-
+- Implemented a standardized data pipeline to finetune the model for any domain-specific dataset.
 
 #### Database Management
 
