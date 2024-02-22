@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 Thanks for popping by my github!
 
 - 👋 Hi, I’m Shirley Wang.
-- 👀 I’m interested in novel Image Segmentation models and algorithms, and other interesting computer vision projects.
+- 👀 I’m interested in novel image segmentation models and algorithms, and other interesting computer vision projects.
 - 🌱 I have recently completed my Msc at UofT!
 - 🔭 I’m currently looking for job opportunities in the Toronto / Vancouver / Seattle area! I'd love to collaborate on some interesting ML problems.
 - 😄 In my free time I love learning about new topics, algorithms, and subjects. I also love cats, playing piano, card games, and trying out new foods.
@@ -18,31 +18,48 @@ Thanks for popping by my github!
 
 ## My Masters Research
 
-Masters of Computer Science from the University of Toronto (2022-2024)
+#### Masters of Computer Science | University of Toronto (2022-2024)
 
-Supervisor: Sanja Fidler
+#### Supervisor: Sanja Fidler
+
+
+
+
 
 ## Work Experience
 
-#### Conversational AI for Customer Service Chatbots  •  [Video Demo](https://youtu.be/B1clXX_V1bQ?si=TUZSaT30pYu5dBIJ)
+#### Conversational AI for Customer Service Chatbots  •  [Video Demo](https://youtu.be/B1clXX_V1bQ?si=TUZSaT30pYu5dBIJ)  •  [Github](https://github.com/VectorInstitute/NAA/tree/main)  •  [Paper](https://aclanthology.org/2022.emnlp-industry.44/)
 
-Applied Machine Learning Intern at Vector Institute (2021)
-•	Researched practical methods for creating domain-specific Conversational AI.
-•	Finetuned LLMs like GPT2 for multiple NLP tasks, adopting existing techniques to create models capable of extracting reasonable answers to queries from a given context in a natural dialogue manner, which perform well in both zero-shot and finetuned settings.
-•	Implemented a standardized data pipeline into finetuning the model for any domain-specific dataset.
-•	Created practical demos to communicate the abilities of our model to internal stakeholders and sponsor companies.
+Applied Machine Learning Intern | Vector Institute (2021)
+
+![Conversational AI](naa.jpg)
+
+- Researched practical methods for creating domain-specific Conversational AI.
+- Finetuned LLMs like GPT2 for multiple NLP tasks, adopting existing techniques to create models capable of extracting reasonable answers to queries from a given context in a natural dialogue manner, which perform well in both zero-shot and finetuned settings.
+- Implemented a standardized data pipeline into finetuning the model for any domain-specific dataset.
+
 
 
 
 
 #### Database Management
 
-Data Engineer at Xero - Hubdoc (2020-2021)
+Data Engineer | Xero - Hubdoc (2020-2021)
 
+- Maintained company’s data warehouse and data pipeline by creating and debugging ETL jobs using SQL, Javascript, and Python.
+- Mapped out dependencies and created new DAGs to migrate the company data pipeline from a hard-coded schedule to Apache Airflow.
+- Created dashboards and tables of KPIs for monthly reporting and other requirements.
+- Worked with AWS Lambdas, S3, and Redshift to implement better database monitoring and archiving solutions.
 
 
 ## Projects
 
+
+#### Driving During Quarantine (2020)  •  [Github](https://github.com/DataFestUofT/submit-project-shirley_eva/)  •  [Presentation](https://github.com/DataFestUofT/submit-project-shirley_eva/blob/master/DatafestSlideDeck.pdf)
+
+Won 1st Place Best in Show at the UofT@Datafest2020
+
+Performed time series analysis using a linear mixed model on traffic data in the Greater Toronto Area to show the effects of the Covid lockdown on Toronto life.
 
 
 ## Blog Posts
